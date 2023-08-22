@@ -3,13 +3,13 @@
 /**
  * main - check the code
  *
- * Return: Always 0.
+ * Return: always 0
  */
 int main(void)
 {
-    char *str;
+	char *str;
 
-    str = "I do not fear computers. I fear the lack of them - Isaac Asimov";
-    _puts(str);
-    return (0);
+	str = "i do not fear computers, i fear the lack of them - Isaac Asimov";
+	_puts(str);
+	return (0);
 }
